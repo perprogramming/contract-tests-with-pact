@@ -1,0 +1,6 @@
+/vendor/
+/bin/
+.idea/
+tests/coverage/
+!tests/coverage/.gitkeep
+storage
